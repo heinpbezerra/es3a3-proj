@@ -1,7 +1,7 @@
 # es3a3-proj
 
-Integrantes:
-  SP3022528
+<p>Prontuários dos Integrantes:
+  SP3022528</p>
   
 <h2>Padrões de criação</h2>
 
