@@ -8,12 +8,12 @@ Integrantes:
 <p>Builder</p>
 <p>Singleton</p>
 
-<h2>Padrões de estruturais</h2>
+<h2>Padrões estruturais</h2>
 
 <p>Adapter</p>
 <p>Decorator</p>
 
-<h2>Padrões de comportamentais</h2>
+<h2>Padrões comportamentais</h2>
 
 <p>Iterator</p>
 <p>Observer</p>
